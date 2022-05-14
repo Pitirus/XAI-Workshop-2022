@@ -1,3 +1,12 @@
 aquirdturtle-collapsible-headings
+datasets
+ipywidgets
 jupyterlab
+lightgbm
+matplotlib
+numpy==1.21.6
 nb-black
+shap
+torch==1.10.0
+torchvision==0.11.1
+transformers
